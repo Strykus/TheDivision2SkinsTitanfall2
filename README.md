@@ -1,7 +1,8 @@
 
 <h1 align="center">Titanfall 2: The Division 2 skins</h1>
 
-![RandS](https://user-images.githubusercontent.com/37307454/166118891-d8631193-cf3b-44e5-8da1-369241bb80c7.png)
+![Desktop Screenshot 2022 04 30 - 21 25 56 86 copy](https://user-images.githubusercontent.com/37307454/166156779-a1badcac-5715-42cf-8c00-f949210a93a2.png)
+
 
 ![northstarlauncher exe Screenshot 2022 05 01 - 02 35 13 52](https://user-images.githubusercontent.com/37307454/166126053-6e6036b2-10f6-4fc2-96d6-fd4d28d2f959.png)
 
